@@ -7,10 +7,10 @@ Gem::Specification.new do |spec|
   spec.name          = "acme-heisenberg"
   spec.version       = Acme::Heisenberg::VERSION
   spec.authors       = ["Jason King"]
-  spec.email         = ["jasonk@amcoonline.net"]
-  spec.description   = %q{TODO: Write a gem description}
-  spec.summary       = %q{TODO: Write a gem summary}
-  spec.homepage      = ""
+  spec.email         = ["jk@handle.it"]
+  spec.description   = %q{When you're ready to live in more of an uncertain world.  Just require this module, and when you observe true or false values then their values might change.}
+  spec.summary       = %q{When there's altogether too much certainty}
+  spec.homepage      = "https://github.com/smathy/acme-heisenberg"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files`.split($/)
